@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/umbrella-folder/the-princess-admiral/","tags":["gardenEntry"]}
 ---
 
+> $\quad$ “*The stars sing of glory and splendor to be won amidst the spoils of war. They have forgotten the cost and the sorrow.*”
+> 	— Admiral Hildegard Blackburn.
 
   *It was September 2381 when the stars sang of a new war, though many thought to be a mere continuation of one ended decades ago. They would be shown how different it was to be.*
   
@@ -12,6 +14,4 @@
 [[Umbrella Folder/Nations\|Nations]]
 [[Umbrella Folder/Technologies\|Technologies]]
 
-- [ ] dg-publish
-- [ ] dg-home
 
