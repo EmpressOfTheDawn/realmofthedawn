@@ -14,7 +14,7 @@ $\quad$ Seeing into the future has never been a sure exercise but, any human and
 
 
 ## Major Time Periods
-- [2nd Great Northern War](obsidian://open?vault=The%20Princess-Admiral&file=Umbrella%20Folder%2FThe%20Princess-Admiral) - 2381
+- The Great Northern War of 2381 — [[Umbrella Folder/The Princess-Admiral\|The Princess-Admiral]]
 
 
 ---
